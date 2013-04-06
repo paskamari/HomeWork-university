@@ -33,5 +33,14 @@ namespace add_list
             }
 
         }
+
+        protected void btndel_Click(object sender, EventArgs e)
+        {
+            if (ListBox2.SelectedIndex != -1)
+            {
+                ListBox1.Items.Add(ListBox2.SelectedItem);
+                ListBox2.Items.Remove(ListBox2.SelectedItem);
+            }
+        }
     }
 }

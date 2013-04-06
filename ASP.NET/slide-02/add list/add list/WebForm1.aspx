@@ -38,7 +38,7 @@
                         onclick="btnaddall_Click" />
                     <br />
                     <br />
-                    <asp:Button ID="btndel" runat="server" Text="&lt;" />
+                    <asp:Button ID="btndel" runat="server" Text="&lt;" onclick="btndel_Click" />
                     <br />
                     <br />
                     <asp:Button ID="btndelall" runat="server" Text="&lt;&lt;" />

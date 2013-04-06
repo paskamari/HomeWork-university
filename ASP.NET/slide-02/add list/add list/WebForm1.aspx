@@ -31,16 +31,16 @@
                     </asp:ListBox>
                 </td>
                 <td>
-                    <asp:Button ID="Button1" runat="server" Text="&gt;" />
+                    <asp:Button ID="btnadd" runat="server" Text="&gt;" onclick="btnadd_Click" />
                     <br />
                     <br />
-                    <asp:Button ID="Button2" runat="server" Text="&gt;&gt;" />
+                    <asp:Button ID="btnaddall" runat="server" Text="&gt;&gt;" />
                     <br />
                     <br />
-                    <asp:Button ID="Button3" runat="server" Text="&lt;" />
+                    <asp:Button ID="btndel" runat="server" Text="&lt;" />
                     <br />
                     <br />
-                    <asp:Button ID="Button4" runat="server" Text="&lt;&lt;" />
+                    <asp:Button ID="btndelall" runat="server" Text="&lt;&lt;" />
                 </td>
                 <td>
                     <asp:ListBox ID="ListBox2" runat="server" Height="120px" Width="190px">

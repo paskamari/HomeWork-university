@@ -13,5 +13,15 @@ namespace add_list
         {
 
         }
+
+        protected void btnadd_Click(object sender, EventArgs e)
+        {
+            if (ListBox1.SelectedIndex != -1)
+            {
+                ListBox2.Items.Add(ListBox1.SelectedItem);
+                ListBox1.Items.Remove(ListBox1.SelectedItem);
+            }
+
+        }
     }
 }

@@ -23,5 +23,15 @@ namespace add_list
             }
 
         }
+
+        protected void btnaddall_Click(object sender, EventArgs e)
+        {
+            while (ListBox1.Items.Count != 0)
+            {
+                ListBox2.Items.Add(ListBox1.Items[0]);
+                ListBox1.Items.Remove(ListBox1.Items[0]);
+            }
+
+        }
     }
 }

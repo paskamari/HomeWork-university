@@ -34,7 +34,8 @@
                     <asp:Button ID="btnadd" runat="server" Text="&gt;" onclick="btnadd_Click" />
                     <br />
                     <br />
-                    <asp:Button ID="btnaddall" runat="server" Text="&gt;&gt;" />
+                    <asp:Button ID="btnaddall" runat="server" Text="&gt;&gt;" 
+                        onclick="btnaddall_Click" />
                     <br />
                     <br />
                     <asp:Button ID="btndel" runat="server" Text="&lt;" />

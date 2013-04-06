@@ -1,0 +1,5 @@
+D:\Clone\HomeWork-university\ASP.NET\slide-02\add list\add list\bin\add list.dll
+D:\Clone\HomeWork-university\ASP.NET\slide-02\add list\add list\bin\add list.pdb
+D:\Clone\HomeWork-university\ASP.NET\slide-02\add list\add list\obj\Debug\ResolveAssemblyReference.cache
+D:\Clone\HomeWork-university\ASP.NET\slide-02\add list\add list\obj\Debug\add list.dll
+D:\Clone\HomeWork-university\ASP.NET\slide-02\add list\add list\obj\Debug\add list.pdb

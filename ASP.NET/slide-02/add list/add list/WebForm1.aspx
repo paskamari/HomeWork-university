@@ -41,7 +41,8 @@
                     <asp:Button ID="btndel" runat="server" Text="&lt;" onclick="btndel_Click" />
                     <br />
                     <br />
-                    <asp:Button ID="btndelall" runat="server" Text="&lt;&lt;" />
+                    <asp:Button ID="btndelall" runat="server" Text="&lt;&lt;" 
+                        onclick="btndelall_Click" />
                 </td>
                 <td>
                     <asp:ListBox ID="ListBox2" runat="server" Height="120px" Width="190px">

@@ -42,5 +42,14 @@ namespace add_list
                 ListBox2.Items.Remove(ListBox2.SelectedItem);
             }
         }
+
+        protected void btndelall_Click(object sender, EventArgs e)
+        {
+            while (ListBox2.Items.Count != 0)
+            {
+                ListBox1.Items.Add(ListBox2.Items[0]);
+                ListBox2.Items.Remove(ListBox2.Items[0]);
+            }
+        }
     }
 }

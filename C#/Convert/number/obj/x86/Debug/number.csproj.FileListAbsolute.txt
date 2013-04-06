@@ -1,0 +1,31 @@
+c:\users\programmer\documents\visual studio 2010\Projects\number\number\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\programmer\documents\visual studio 2010\Projects\number\number\obj\x86\Debug\number.Form1.resources
+c:\users\programmer\documents\visual studio 2010\Projects\number\number\obj\x86\Debug\number.Properties.Resources.resources
+c:\users\programmer\documents\visual studio 2010\Projects\number\number\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\programmer\documents\visual studio 2010\Projects\number\number\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\programmer\documents\visual studio 2010\Projects\number\number\bin\Debug\number.exe
+c:\users\programmer\documents\visual studio 2010\Projects\number\number\bin\Debug\number.pdb
+c:\users\programmer\documents\visual studio 2010\Projects\number\number\obj\x86\Debug\number.exe
+c:\users\programmer\documents\visual studio 2010\Projects\number\number\obj\x86\Debug\number.pdb
+C:\Users\Hadi\Desktop\number\number\obj\x86\Debug\number.exe
+C:\Users\Hadi\Desktop\number\number\obj\x86\Debug\number.pdb
+C:\Users\Hadi\Desktop\number\number\bin\Debug\number.exe
+C:\Users\Hadi\Desktop\number\number\bin\Debug\number.pdb
+C:\Users\Hadi\Desktop\number\number\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hadi\Desktop\number\number\obj\x86\Debug\number.Form1.resources
+C:\Users\Hadi\Desktop\number\number\obj\x86\Debug\number.Properties.Resources.resources
+C:\Users\Hadi\Desktop\number\number\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hadi\Desktop\number\number\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Program Files\Project\Visual C#\تبدیل عدد به حروف\number\obj\x86\Debug\number.exe
+D:\Program Files\Project\Visual C#\تبدیل عدد به حروف\number\obj\x86\Debug\number.pdb
+C:\Users\Hamid\Desktop\Visual C#\تبدیل عدد به حروف\number\obj\x86\Debug\number.exe
+C:\Users\Hamid\Desktop\Visual C#\تبدیل عدد به حروف\number\obj\x86\Debug\number.pdb
+F:\Document\Example\programing\Visual C#\تبدیل عدد به حروف\number\obj\x86\Debug\number.exe
+F:\Document\Example\programing\Visual C#\تبدیل عدد به حروف\number\obj\x86\Debug\number.pdb
+D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\number.exe
+D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\number.pdb
+D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\number.Form1.resources
+D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\number.Properties.Resources.resources
+D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\GenerateResource.write.1.tlog

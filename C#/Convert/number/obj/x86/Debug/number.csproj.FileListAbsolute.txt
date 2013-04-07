@@ -29,3 +29,5 @@ D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\number.Form1.resour
 D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\number.Properties.Resources.resources
 D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Clone\HomeWork-university\C#\Convert\number\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Clone\HomeWork-university\C#\Convert\number\bin\Debug\number.exe
+D:\Clone\HomeWork-university\C#\Convert\number\bin\Debug\number.pdb

@@ -2,7 +2,7 @@ var cnv = document.getElementById('paint');
 
 var ctx = cnv.getContext('2d');
 
-ctx.strokeStyle = 'white';
+ctx.strokeStyle = 'black';
 
 var painting = false;
 

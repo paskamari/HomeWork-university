@@ -1,20 +1,19 @@
 *{
-	padding : 0;
-	margin  : 0;
+	padding  				: 0;
+	margin  				: 0;
 }
 
 body{
-	background : #353535;
-	color      : #eee;
+	background-color 		: #dfdedd;
 }
 
 #paint{
-	position   : absolute;
-	left       : 0;
-	right      : 0;
-	top        : 0;
-	bottom     : 0;
-	margin     : auto;
-	outline    : 1px solid #050505;
-	background : #202020;
+	position 				: absolute;
+	left       				: 0;
+	right     				: 0;
+	top        				: 0;
+	bottom    				: 0;
+	margin     				: auto;
+	outline    				: 1px solid #050505;
+	background-color 		: #FFF;
 }

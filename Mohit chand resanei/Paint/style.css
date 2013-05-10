@@ -4,8 +4,39 @@
 }
 
 body{
-	background-color 		: #dfdedd;
+	background-color 		: #aaa;
 }
+
+.centerauto{
+	position: absolute;
+	left:0;
+	top:0;
+	right:0;
+	bottom:0;
+	margin:auto;
+}
+
+.container{
+	width: 980px;
+	height:590px;
+	background-color: #aaa;
+	
+	-webkit-border-radius: 25px;
+	        border-radius: 25px;	
+}
+
+.canvas{
+
+		background-color 		: #FFF;
+			-webkit-border-radius: 25px;
+	        border-radius: 25px;
+			border    				: 1px solid #050505;
+
+
+}
+
+
+/*
 
 #paint{
 	position 				: absolute;
@@ -100,4 +131,4 @@ menu li:last-child{
 	top:10px;
 	cursor: pointer;
 	-webkit-transform: rotateZ(90deg);
-}
+}*/
